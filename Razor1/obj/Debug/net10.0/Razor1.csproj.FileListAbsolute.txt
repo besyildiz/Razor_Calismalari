@@ -96,3 +96,4 @@ C:\Users\Administrator\source\repos\Razor1\obj\Debug\net10.0\refint\Razor1.dll
 C:\Users\Administrator\source\repos\Razor1\obj\Debug\net10.0\Razor1.pdb
 C:\Users\Administrator\source\repos\Razor1\obj\Debug\net10.0\Razor1.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\Razor1\obj\Debug\net10.0\ref\Razor1.dll
+C:\Users\Administrator\source\repos\Razor1\obj\Debug\net10.0\Razor1.sourcelink.json

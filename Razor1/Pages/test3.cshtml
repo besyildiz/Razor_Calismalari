@@ -1,0 +1,12 @@
+﻿@page
+@model Razor1.Pages.test3Model
+<form method="post">
+    <input asp-for="Isim2" placeholder="İsminizi yazın" />
+    <button type="submit" >Gönder</button>
+</form>
+
+@if (Model.Sonuc!=null)
+{
+    <h3>@Model.Sonuc</h3>
+}
+

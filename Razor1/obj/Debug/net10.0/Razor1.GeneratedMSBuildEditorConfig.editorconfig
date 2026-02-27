@@ -42,6 +42,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVzdDEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Administrator/source/repos/Razor1/Pages/test2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVzdDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/source/repos/Razor1/Pages/test3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVzdDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Administrator/source/repos/Razor1/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
