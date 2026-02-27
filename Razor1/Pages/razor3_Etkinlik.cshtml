@@ -1,0 +1,12 @@
+﻿@page
+@model Razor1.Pages.razor3_EtkinlikModel
+<form method="post">
+    <input asp-for="sayi1" placeholder="1. sayınız" />
+    <input asp-for="sayi2" placeholder="2. sayınız" />
+    <button type="submit">Topla</button>
+
+</form>
+@if (Model.toplam!=null)
+{
+    <h3>@Model.toplam</h3>
+}
