@@ -5,10 +5,10 @@ namespace Razor1.Pages
 {
     public class razor3_Etkinlik2Model : PageModel
     {
-        string mesaj = null;
+        public string mesaj { get; set; }
         public void OnPost(int yas)
         {
-            if (yas>=18)
+            if (yas >= 18)
             {
                 mesaj = "Reşitsin";
             }
