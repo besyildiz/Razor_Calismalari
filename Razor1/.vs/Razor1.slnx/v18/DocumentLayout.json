@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Razor1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C85708-5DB3-40B5-A84C-6D40CF6D1DC5}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\test1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C85708-5DB3-40B5-A84C-6D40CF6D1DC5}|Razor1.csproj|solutionrelative:pages\\test1.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C85708-5DB3-40B5-A84C-6D40CF6D1DC5}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\test1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49C85708-5DB3-40B5-A84C-6D40CF6D1DC5}|Razor1.csproj|solutionrelative:pages\\test1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C85708-5DB3-40B5-A84C-6D40CF6D1DC5}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49C85708-5DB3-40B5-A84C-6D40CF6D1DC5}|Razor1.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T06:24:29.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test1.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test1.cshtml",
+              "RelativeDocumentMoniker": "Pages\\test1.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test1.cshtml",
+              "RelativeToolTip": "Pages\\test1.cshtml",
+              "ViewState": "AgIAAAAAAAAAMzMzMzPrvwIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T06:01:26.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test1.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test1.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\test1.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test1.cshtml.cs",
+              "RelativeToolTip": "Pages\\test1.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:02:38.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
