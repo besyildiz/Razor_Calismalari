@@ -1,0 +1,14 @@
+﻿@page
+@model Razor1.Pages.test6Model
+ @if (Model.Isimler.Count>0)
+{
+    <ul>
+        @foreach (var item in Model.Isimler)
+        {
+            <li>  @item</li>
+        }
+    </ul>
+}else
+{
+        <p>Liste boş</p>
+}
