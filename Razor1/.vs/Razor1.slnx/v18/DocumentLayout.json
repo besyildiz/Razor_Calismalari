@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Razor1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\test8.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|solutionrelative:pages\\test8.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\test8.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|solutionrelative:pages\\test8.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|solutionrelative:pages\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|solutionrelative:pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\test7.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|solutionrelative:pages\\test7.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|c:\\users\\administrator\\source\\repos\\razor1\\pages\\test7.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43E21422-FBFD-1821-3A16-30603BF4E879}|Razor1.csproj|solutionrelative:pages\\test7.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,66 +30,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-27T06:56:46.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-27T06:41:16.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-27T06:30:39.248Z",
+              "WhenOpened": "2026-04-02T07:36:56.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "test7.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test7.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\test7.cshtml.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test7.cshtml.cs",
-              "RelativeToolTip": "Pages\\test7.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "test8.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test8.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\test8.cshtml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test8.cshtml.cs",
+              "RelativeToolTip": "Pages\\test8.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T06:23:35.16Z"
+              "WhenOpened": "2026-04-02T07:26:43.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "test7.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test7.cshtml",
-              "RelativeDocumentMoniker": "Pages\\test7.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test7.cshtml",
-              "RelativeToolTip": "Pages\\test7.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "test8.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test8.cshtml",
+              "RelativeDocumentMoniker": "Pages\\test8.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\test8.cshtml",
+              "RelativeToolTip": "Pages\\test8.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-27T06:23:04.097Z",
+              "WhenOpened": "2026-04-02T07:26:37.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Pages\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Razor1\\Pages\\Models\\Student.cs",
+              "RelativeToolTip": "Pages\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:21:11.122Z",
               "EditorCaption": ""
             }
           ]
